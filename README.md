@@ -1,6 +1,6 @@
 # AI/ML Project Repository
 
-![pexels-omarhouc-752525](https://github.com/VP235/VP235/assets/74403473/bf8df3ce-291a-4059-ae90-545d22ad72e2)
+![pexels-omarhouc-752525](https://github.com/VP235/VP235/assets/74403473/1d5212c7-cd2b-42f2-9d60-cca9481ded92)
 
 ###### Welcome to my AI/ML project repository! 
 
